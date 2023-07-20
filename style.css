@@ -1,0 +1,12 @@
+body {
+    background-color:#53485b;
+}
+.text {
+    color:rgb(255, 255, 255);
+}
+h2,h3,h4,h1 {
+    color:rgb(255, 255, 255);
+}
+.btn-group {
+    background-color:#dddae2;
+}
