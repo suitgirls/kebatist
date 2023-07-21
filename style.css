@@ -13,3 +13,12 @@ h2,h3,h4,h1 {
 .jumbotron {
     background-color:#938096;
 }
+a {
+    color: white;
+}
+.meme {
+    float:right;
+}
+.clear {
+    clear:both;
+}
