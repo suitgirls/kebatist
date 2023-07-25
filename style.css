@@ -23,3 +23,6 @@ a {
 .clear {
     clear:both;
 }
+nav a {background-color:#2a1439}
+nav a:hover {background-color:#e5c2ea}
+nav a:hover{color:#2a1439}
