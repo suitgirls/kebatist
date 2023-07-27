@@ -1,5 +1,5 @@
 body {
-    background-color:#53485b;
+    background-color:#9bb2cd;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .text {
@@ -9,20 +9,45 @@ h2,h3,h4,h1 {
     color:rgb(255, 255, 255);
 }
 .btn-group {
-    background: color #e5c2ea;;
+    background: color #e5c2ea;
+
 }
 .jumbotron {
     background-color:#938096;
 }
 a {
     color: white;
+    border-radius: 15px;
 }
 .meme {
     float:right;
+    justify-content: space-around;
 }
 .clear {
     clear:both;
+    
 }
-nav a {background-color:#2a1439}
-nav a:hover {background-color:#e5c2ea}
-nav a:hover{color:#2a1439}
+nav a {background-color:#454668}
+nav a:hover {background-color:#ffffff}
+nav a:hover{color:#454668}
+
+div {
+    border: 1px solid white;
+    margin:20px solid white;
+    padding: 35px #483144;
+    background-color:#534870 ;
+    border-radius: 15px;
+
+}
+nav {
+    padding: 15px;
+    margin-bottom: 20px;
+    background-color:#454668;
+    border-radius: 15px;
+
+}
+.row {
+    display:flex;
+    justify-content: space-around;
+   
+}
